@@ -1,2 +1,2 @@
-# meuorimeiro-diret-rio
+# meu primeiro diretório
 minha primeira vez tentando
